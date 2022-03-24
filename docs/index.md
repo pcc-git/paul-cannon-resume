@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Paul Cannon's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Paul Cannon
+Visiting Faculty, Brigham Young University, Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="cannonp@byui.edu">cannonp@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>

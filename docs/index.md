@@ -16,12 +16,12 @@ Visiting Faculty, Brigham Young University, Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2001-2007`
+__Brigham Young University__, Provo, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Visting Faculty`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA

@@ -24,7 +24,7 @@ __Brigham Young University__, Provo, UT
 `Visting Faculty`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+-  4.0 Major GPA
 
 
 ## Related Experience

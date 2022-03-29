@@ -12,7 +12,7 @@ Visiting Faculty, Brigham Young University, Idaho
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+CHANGED
 
 ## Education
 

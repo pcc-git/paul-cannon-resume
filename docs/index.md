@@ -19,7 +19,6 @@ CHANGED
 `2001-2007`
 __Brigham Young University__, Provo, UT
 
-- Full academic scholarship with 4.0 GPA
 
 `Visting Faculty`
 __Brigham Young University - Idaho__, Rexburg, ID

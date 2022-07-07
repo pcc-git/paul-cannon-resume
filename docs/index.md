@@ -12,8 +12,6 @@ Visiting Faculty, Brigham Young University, Idaho
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-CHANGED
-
 ## Education
 
 `2001-2007`
@@ -29,11 +27,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
 ### Data Science Lead
 

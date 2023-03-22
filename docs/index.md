@@ -1,9 +1,9 @@
 ---
-layout: cv
+layout: resume
 title: Paul C. Cannon
 ---
 
-<p style="text-align": center><font size = "1">796 GRIFFIN ST, REXBURG, ID 83440 ∙ (314) 556-2350 ∙ PAULCCANNON@GMAIL.COM </font></p>
+<p style="text-align": center><font size = "2">796 GRIFFIN ST, REXBURG, ID 83440 ∙ (314) 556-2350 ∙ PAULCCANNON@GMAIL.COM </font></p>
 
 ## Work Experience
 
@@ -60,14 +60,10 @@ Six Sigma Master Black Belt
 
 
 ## Education
-Brigham Young University
-
-MS Statistics 2008, GPA: 3.81
-
-BS Statistics, Business Management minor
-
-Joint Program in Survey Methodology
-Junior Fellow, University of Michigan/University of Maryland, Summer 2004
+- Brigham Young University
+- MS Statistics 2008, GPA: 3.81
+- BS Statistics, Business Management minor
+- Joint Program in Survey Methodology Junior Fellow, University of Michigan/University of Maryland, Summer 2004
 
 ## Skills
 Statistical Modeling: Multivariate Methods, Machine Learning, Linear Mixed Models,

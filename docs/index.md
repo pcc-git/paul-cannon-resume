@@ -1,77 +1,62 @@
-## Details
+---
+layout: cv
+title: Paul C. Cannon
+---
 
-This coding challenge will help you practice skills required for the final coding challenge. Remember:
+<p style="text-align": center><font size = "1">796 GRIFFIN ST, REXBURG, ID 83440 ∙ (314) 556-2350 ∙ PAULCCANNON@GMAIL.COM </font></p>
 
-1. Your goal is to demonstrate your data science coding abilities. Get through as many items with a rough implementation as possible.
-2. Get your code to match our outputs as close as possible, but don't stress over minute details.
-3. Keep most of the code you type.  If you end up not using specific parts, comment them out and include them at the bottom.
-4. You should use the entire hour and may not finish.
-3. While not required for the practice, you'll need to budget time to submit a `.md` and a `.pdf` report for the final challenge.  
+## Work Experience
 
-__Please use the [challenge template](https://byuistats.github.io/CSE250-Course/template/challenge_template.md) to submit your work.__
+**Visiting Faculty, Brigham Young University - Idaho**, `Sep 21-Present`
+   * Teaching Data Science Programming (Python and R) and Statistics
 
-```python
-import pandas as pd 
-import altair as alt
-import numpy as np
+**Global Manufacturing Excellence Manager**, `May 20-Aug 21`
+   * Drive adoption and integration of new analytics in Global Vegetables Production
 
-from sklearn.model_selection import train_test_split
-from sklearn import tree
-from sklearn.ensemble import GradientBoostingClassifier
-from sklearn import metrics
-```
+**Senior Data Science Lead; Bayer**, `Oct 19-May 20`
+   * Engage with unit leads and scientists globally to influence key decisions impacting the Product Supply
+   * Drive development and adoption of predictive analytics in Global Seed Production Innovation
 
+**Manufacturing Technology Analytics Lead; Monsanto/Bayer**, `Apr 16-Oct 19`
+   * Lead core team of Data Scientists to develop and implement data-driven technologies in manufacturing globally
 
-## Challenge 1
+   * Global Seed Technology, Statistician and Six Sigma Lead; Monsanto, Jun 12-Apr 16
+   * Provide statistical expertise to Global Manufacturing
+   * Lead instructor for training Six Sigma Black Belts
 
-A man, his son, and a grandson are all named John.  The man was born in 1936, the son in 1976, and the grandson was born in 1999. The man and grandson were born in Utah, but the son was born in Oregon.  Recreate the following graphic to show this story about our names.
-```python
-url_names = 'https://github.com/byuidatascience/data4names/raw/master/data-raw/names_year/names_year.csv'
-dat_names = pd.read_csv(url_names)
+**Statistician/North America Six Sigma Lead; Monsanto**, `Aug 07-Jun 12` \n
+   * Manage Six Sigma program and training in North America; continuous improvement project management; mentor trainees
 
-```
+**World Health Organization (WHO), Temporary Adviser**, `Jan-Aug 07` \n
+   * Advised WHO statisticians on use of a new methodology for the Study on Global Aging and Adult Health
 
-![](john.png)
+**Statistician, BYU Brain Imaging Lab; Dept. of Psychology**, `Oct 06-Aug 07`\n
+   * NIH grant investigating neuropsychological abnormalities in Autistic patients
+   * Tutored PhD candidates and consulted on dissertations
 
+**Research Assistant**
+   * Statistical Natural Language Model and authorship identification <br>
 
-## Challenge 2
+**Teaching Assistant, Brigham Young University, Statistics Department** 4 Years; <br>
+   * Stochastic Processes, Statistical Computing, Multivariate Methods, Engineering Statistics
 
-Our computations can't be done with missing values. Take the following series and calculate the mean after replacing the missing values with the median. 
-
-```python
-mister = pd.Series([np.nan, 15, 22, 45, 31, np.nan, 85, 38, 129, 8000, 21, 2])
-```
-
-## Challenge 3
-
-Create a table of building counts for houses of 1 and 2 stories (in the rows of the table) and with a garage that fits 1,2,3 and 4 cars or less (the columns of the table) from the `dwellings_ml` data. __Show the markdown table and the clean table in your report.__  The [pivot_table](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html#pandas.pivot_table) function could prove valuable as well as [groupby](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html) and [agg](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html).
+**Statistical Clerk, US Department of Energy, Washington DC**, `May-Aug 04`<br>
+   * Energy Information Administration (EIA) Statistics and Methods Group
 
 
-```python
-dwellings_ml = pd.read_csv("https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_ml/dwellings_ml.csv")
-```
+## Certifications and Honors
+Bayer Science Fellow
+Bayer Product Supply Senior Expert
+Six Sigma Master Black Belt
 
-## Challenge 4
 
-Your data has too many types of values for missing. All the values are counts of mice in a bucket. Fix the series to all be `np.nan` and calculate the average.
-
-```python
-mother = pd.Series(['N/A', 15, 22, 45, 31, -999, 21, 2, 0, 0, 0, 'broken'])
-```
-
-## Challenge 5
-
-We want to predict whether a home has a basement or not using our Denver homes data. Report your accuracy.  Here are a few key inputs
-
-1. Use `test_size = .20` and `random_state = 2022` in `train_test_split()`
-2. Use the `GradientBoostingClassifier()` method.
-
-```python
-dwellings_ml = pd.read_csv("https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_ml/dwellings_ml.csv")
-
-X_pred = dwellings_ml.drop(dwellings_ml.filter(regex = 'basement|finbsmnt|BASEMENT').columns, axis = 1)
-
-y_pred = dwellings_ml.basement
-y_pred[y_pred > 0] = 1  
-
-```
+## Education
+Brigham Young University
+MS Statistics 2008, GPA: 3.81
+BS Statistics, Business Management minor
+Joint Program in Survey Methodology
+Junior Fellow, University of Michigan/University of Maryland, Summer 2004
+Skills
+Statistical Modeling: Multivariate Methods, Machine Learning, Linear Mixed Models,
+Generalized Linear Models, Experimental Design, Bayesian methodology, Six Sigma
+Data Science Programming: proficient in R, Python

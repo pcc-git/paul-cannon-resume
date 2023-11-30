@@ -5,6 +5,8 @@ title: Paul C. Cannon
 
 <p style="text-align": center><font size = "2">796 GRIFFIN ST, REXBURG, ID 83440 ∙ (314) 556-2350 ∙ PAULCCANNON@GMAIL.COM </font></p>
 
+My new update
+
 ## Work Experience
 
 **Visiting Faculty, Brigham Young University - Idaho**, `Sep 21-Present`
